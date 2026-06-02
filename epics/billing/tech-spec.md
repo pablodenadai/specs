@@ -15,8 +15,6 @@ Acme Corp's billing system currently supports a static plan model: tenants are a
 1. **Sales friction** — self-serve plan changes are not available; customers must open a ticket.
 2. **Proration complexity** — the current system bills a full cycle regardless of when a change occurs, leading to customer complaints and refund requests.
 
-As Acme expands its self-serve offering, we need an automated, auditable mechanism for tenants to request plan changes that take effect at the correct billing boundary, with accurate proration.
-
 ---
 
 ## 2. Goals
