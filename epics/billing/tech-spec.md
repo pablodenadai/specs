@@ -10,7 +10,7 @@
 
 ## 1. Background
 
-Acme Corp's billing system currently supports a static plan model: tenants are assigned a plan at creation time and can only be manually upgraded or downgraded by a support agent via an internal admin tool. This creates two problems:
+ExampleDotCom's billing system currently supports a static plan model: tenants are assigned a plan at creation time and can only be manually upgraded or downgraded by a support agent via an internal admin tool. This creates two problems:
 
 1. **Sales friction** — self-serve plan changes are not available; customers must open a ticket.
 2. **Proration complexity** — the current system bills a full cycle regardless of when a change occurs, leading to customer complaints and refund requests.
