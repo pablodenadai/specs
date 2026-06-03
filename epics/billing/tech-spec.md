@@ -1,4 +1,4 @@
-# Technical Spec: Subscription Plan Migration Engine
+# Technical Spec: Subscription Plan Migration Engine(diff change)
 
 **Feature:** Automated Plan Migration on Billing Cycle Boundaries  
 **Team:** Platform Billing  
@@ -8,7 +8,17 @@
 
 ---
 
+<details>
+  <summary>Click to expand this section</summary>
+  
+  This is the hidden content. You can write regular text here.
+</details>
+
 ## 1. Background
+
+```
+test
+```
 
 ExampleDotCom's billing system currently supports a static plan model: tenants are assigned a plan at creation time and can only be manually upgraded or downgraded by a support agent via an internal admin tool. This creates two problems:
 
